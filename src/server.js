@@ -8,6 +8,7 @@ const errorHandler = require('../src/middleware/500.js');
 
 app.use(express.json());
 app.use(morgon('dev'));
+app.use(express.static('./public'));
 app.use('/',router);
 
 app.use('*',notFoundHandler);
