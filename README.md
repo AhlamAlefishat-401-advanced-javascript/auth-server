@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/AhlamAlefishat-401-advanced-javascript/auth-server/pull/3)
+- [submission PR](https://github.com/AhlamAlefishat-401-advanced-javascript/auth-server/pull/4)
 
 
 ### Setup
@@ -49,5 +49,10 @@
 
 ##### lab-13
 ![](https://github.com/AhlamAlefishat-401-advanced-javascript/auth-server/blob/master/lab-13.jpg)
+
+##### lab-14
+![](https://github.com/AhlamAlefishat-401-advanced-javascript/auth-server/blob/master/lab-14.jpg)
+
+
 
 
